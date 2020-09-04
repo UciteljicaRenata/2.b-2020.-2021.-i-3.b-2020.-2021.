@@ -1,2 +1,2 @@
-# 2.b
+# 2.b i 3.b
 učenje na daljinu
